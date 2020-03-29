@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Drive To Montclair</string>
+    <string name="desc1">This app will show you how to get to Montclair State University via a car.</string>
+    <string name="desc2">When you are ready to head to Montclair, click on the button below! A map will open up with the route, drive time, and current traffic conditions.</string>
+    <string name="desc3">Please remember to drive safely and handsfree! Don\'t text and drive. Don\'t drink and drive.</string>
+    <string name="drive_to_msu">Drive to MSU!</string>
+    <string name="desc4">See you at MSU!</string>
+</resources>
